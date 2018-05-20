@@ -1,0 +1,14 @@
+/*adjust screen when its above 300px*/
+@media screen and (min-width: 300px){ 
+    body{ background-color: yellow; }
+}
+
+/*adjust screen when its above 500px*/
+@media screen and (min-width: 500px){ 
+    body{ background-color: green; }
+}
+
+/*adjust screen when its above 800px*/
+@media screen and (min-width: 800px){ 
+    body{ background-color: palevioletred; }
+}
