@@ -1,4 +1,4 @@
-# Front-end Template 
+# Front-end template 
 
 * HTML
 * CSS
